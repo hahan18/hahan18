@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hahan18&label=Profile%20views&color=0e75b6&style=flat" alt="hahan18" /> </p>
 
-- 🌱 I’m currently learning **Django Rest Framework**
+- 🌱 I’m currently learning **Linux**
 
 - 💬 Ask me about **Django, Postgresql, Python**
 
